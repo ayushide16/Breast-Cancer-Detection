@@ -14,7 +14,7 @@ Breast cancer is one of the most common cancers affecting women worldwide. Early
 
 ## Technologies Used
 Programming Language: Python
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn <br>
 Tools: Jupyter Notebook
 
 ## Contributing
